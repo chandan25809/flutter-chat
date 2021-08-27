@@ -7,7 +7,7 @@
 
 
 ## Screenshot
-<img src="https://drive.google.com/file/d/1Ous4y46rntGo4j7Pc6cancQ9gadBQ1mG/view?usp=sharing" height="50%" width="50%">
+<img src="https://github.com/chandan25809/flutter-chat-demo/blob/master/screenshots/FlutterChatDemo.gif" height="50%" width="50%">
 
 ## How to run
 * Clone this repo
